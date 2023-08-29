@@ -1223,7 +1223,7 @@ grid-row: 10/12;
     grid-column: 7/13;
     grid-row: 2/8;
     
-    background-image: url(Images/div3gif.gif);
+    background-image: url(div3gif.gif);
 }
 #div8D{
    grid-row: 10/14;
@@ -1247,7 +1247,7 @@ grid-row: 10/12;
 }
 #icon1D{
     list-style-type: none;
-   background-image: url(Images/200w.webp);
+   background-image: url(200w.webp);
    background-size: 32px 32px;
    background-repeat: no-repeat;
    padding-left: 40px;
@@ -1257,7 +1257,7 @@ grid-row: 10/12;
 }
 #icon2D{
     list-style-type: none;
-    background-image: url(Images/heart.webp);
+    background-image: url(heart.webp);
     background-size: 32px 32px;
     background-repeat: no-repeat;
     padding-left: 40px;
@@ -1267,7 +1267,7 @@ grid-row: 10/12;
  }
  #icon3D{
     list-style-type: none;
-    background-image: url(Images/education.webp);
+    background-image: url(education.webp);
     background-size: 32px 32px;
     background-repeat: no-repeat;
     padding-left: 40px;
@@ -1277,7 +1277,7 @@ grid-row: 10/12;
  }
  #icon4D{
     list-style-type: none;
-    background-image: url(Images/media.webp);
+    background-image: url(media.webp);
     background-size: 32px 32px;
     background-repeat: no-repeat;
     padding-left: 40px;
@@ -1287,7 +1287,7 @@ grid-row: 10/12;
  }
  #icon5D{
     list-style-type: none;
-    background-image: url(Images/travel.webp);
+    background-image: url(travel.webp);
     background-size: 32px 32px;
     background-repeat: no-repeat;
     padding-left: 40px;
@@ -1297,7 +1297,7 @@ grid-row: 10/12;
  }
  #icon6D{
     list-style-type: none;
-    background-image: url(Images/realestate.webp);
+    background-image: url(realestate.webp);
     background-size: 32px 32px;
     background-repeat: no-repeat;
     padding-left: 40px;
@@ -1309,7 +1309,7 @@ grid-row: 10/12;
  }
  #icon7D{
     list-style-type: none;
-    background-image: url(Images/logistics.webp);
+    background-image: url(logistics.webp);
     background-size: 32px 32px;
     background-repeat: no-repeat;
     padding-left: 40px;
